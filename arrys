@@ -1,0 +1,10 @@
+import java.util.*
+class scan{
+public static void main(String args[]){
+System.out.print("enter the array value ");
+Scanner se = new Scanner(System.in);
+int [] se =new int(se);
+System.out.println(int se.length);
+}
+}
+
